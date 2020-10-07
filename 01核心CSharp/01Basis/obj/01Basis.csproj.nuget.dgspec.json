@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\核心C#\\01Basis\\01Basis.csproj": {}
+    "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\01核心CSharp\\01Basis\\01Basis.csproj": {}
   },
   "projects": {
-    "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\核心C#\\01Basis\\01Basis.csproj": {
+    "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\01核心CSharp\\01Basis\\01Basis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\核心C#\\01Basis\\01Basis.csproj",
+        "projectUniqueName": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\01核心CSharp\\01Basis\\01Basis.csproj",
         "projectName": "01Basis",
-        "projectPath": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\核心C#\\01Basis\\01Basis.csproj",
+        "projectPath": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\01核心CSharp\\01Basis\\01Basis.csproj",
         "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
-        "outputPath": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\核心C#\\01Basis\\obj\\",
+        "outputPath": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\01核心CSharp\\01Basis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
