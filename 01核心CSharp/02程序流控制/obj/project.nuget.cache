@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OMpvxZerOHqBrp0rV03YsGjhoE57AaxpuVZ2KHuZ9qu17LUkXNyB5+gzwWoqpeuF1ZB/iMXF/2jeGgjGNiILeA==",
+  "success": true,
+  "projectFilePath": "E:\\KeepLearn\\C#\\ProfessionalCSharp7.0\\Professional_CSharp7_And_.NET_Core2.0\\01核心CSharp\\02程序流控制\\02程序流控制.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonty\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "02程序流控制/1.0.0": {
+        "runtime": {
+          "02程序流控制.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02程序流控制/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
