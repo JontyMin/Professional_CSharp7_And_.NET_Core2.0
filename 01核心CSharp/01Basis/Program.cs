@@ -1,6 +1,7 @@
 ﻿// using System;
 using System;
 using static System.Console;
+using con=System;
 
 namespace _01Basis
 {
@@ -16,7 +17,6 @@ namespace _01Basis
             WriteLine($"System空间包含了常用的.NET类型");
 
             // 注意：C#区分大小写
-
 
             // 变量 C#编译器需要用某个初始值对变量进行初始化，才能在操作中使用改变量，
             // 多数编译器将未初始化标记为警告，C#编译器将其视为警告
@@ -71,6 +71,19 @@ namespace _01Basis
                 string newFilePath = $"my name is {user}";
             }
 
+            // 名称空间
+
+        }
+
+        class Calculator
+        {
+            /// <summary>
+            /// 这是XML注释
+            /// </summary>
+            /// <param name="x"></param>
+            /// <param name="y"></param>
+            /// <returns></returns>
+            public static double Add(double x, double y) => x + y;
         }
     }
 }
