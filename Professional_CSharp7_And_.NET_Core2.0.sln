@@ -5,9 +5,13 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01核心CSharp", "01核心CSharp", "{29166AEA-A6B4-4074-84C6-6289F2D47D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01Basis", "01核心CSharp\01Basis\01Basis.csproj", "{5836EFC6-0CFF-45BE-AEFD-692C423F7DD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Basis", "01核心CSharp\01Basis\01Basis.csproj", "{5836EFC6-0CFF-45BE-AEFD-692C423F7DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02程序流控制", "01核心CSharp\02程序流控制\02程序流控制.csproj", "{BEFA332B-6361-4973-9C7A-B040D6FB6C22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02程序流控制", "01核心CSharp\02程序流控制\02程序流控制.csproj", "{BEFA332B-6361-4973-9C7A-B040D6FB6C22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02对象和类型", "02对象和类型", "{480125D1-BA50-4FB6-BD4F-8BAAA33F7AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object_Class", "02对象和类型\Object_Class\Object_Class.csproj", "{EA6E8426-88D6-4087-8497-897B7E9FADDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,10 @@ Global
 		{BEFA332B-6361-4973-9C7A-B040D6FB6C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEFA332B-6361-4973-9C7A-B040D6FB6C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEFA332B-6361-4973-9C7A-B040D6FB6C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6E8426-88D6-4087-8497-897B7E9FADDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6E8426-88D6-4087-8497-897B7E9FADDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6E8426-88D6-4087-8497-897B7E9FADDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6E8426-88D6-4087-8497-897B7E9FADDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5836EFC6-0CFF-45BE-AEFD-692C423F7DD5} = {29166AEA-A6B4-4074-84C6-6289F2D47D96}
 		{BEFA332B-6361-4973-9C7A-B040D6FB6C22} = {29166AEA-A6B4-4074-84C6-6289F2D47D96}
+		{EA6E8426-88D6-4087-8497-897B7E9FADDE} = {480125D1-BA50-4FB6-BD4F-8BAAA33F7AA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C03F4328-CFE0-41FC-907C-009E75CFE8E2}
