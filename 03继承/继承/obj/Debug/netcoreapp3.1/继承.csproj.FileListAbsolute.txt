@@ -1,0 +1,13 @@
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\bin\Debug\netcoreapp3.1\继承.exe
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\bin\Debug\netcoreapp3.1\继承.deps.json
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\bin\Debug\netcoreapp3.1\继承.runtimeconfig.json
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\bin\Debug\netcoreapp3.1\继承.runtimeconfig.dev.json
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\bin\Debug\netcoreapp3.1\继承.dll
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\bin\Debug\netcoreapp3.1\继承.pdb
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.csprojAssemblyReference.cache
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.AssemblyInfoInputs.cache
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.AssemblyInfo.cs
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.csproj.CoreCompileInputs.cache
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.dll
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.pdb
+E:\KeepLearn\C#\ProfessionalCSharp7.0\Professional_CSharp7_And_.NET_Core2.0\03继承\继承\obj\Debug\netcoreapp3.1\继承.genruntimeconfig.cache
