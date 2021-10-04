@@ -1,10 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
+using System.Collections.Generic;
 using sample1.generic;
 
-Console.WriteLine("Hello, World!");
 
+Console.WriteLine("Hello, World!");
+/*Console.WriteLine(typeof(List<int>));
+Console.WriteLine(typeof(Dictionary<string,int>));
 
 var i = 123;
 var s = "Jonty";
@@ -33,6 +36,11 @@ CommonMethod.ShowName(i);
 // string
 CommonMethod.ShowName(s);
 // datetime
-CommonMethod.ShowName(d);
+CommonMethod.ShowName(d);*/
+
+sample1.generic.Monitor.Show();
+
+
+
 
 Console.ReadKey();
