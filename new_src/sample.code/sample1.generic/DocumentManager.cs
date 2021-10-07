@@ -4,12 +4,12 @@ using System.Data.Common;
 
 namespace sample1.generic
 {
-    public class DocumentManager<T>
+    public class DocumentManager<T> : IDocumentManager<T> where T : IDocument
     {
-        private readonly  Queue<T> _documentQueue= new Queue<T>();
+        private readonly Queue<T> _documentQueue = new Queue<T>();
         private readonly object _lock = new object();
 
-        public bool IsAvailable =>_documentQueue.Count > 0;
+        public bool IsAvailable => _documentQueue.Count > 0;
 
         public void AddDocument(T doc)
         {
@@ -24,7 +24,7 @@ namespace sample1.generic
             T doc = default;
             lock (_lock)
             {
-                doc=_documentQueue.Dequeue();
+                doc = _documentQueue.Dequeue();
             }
 
             return doc;
@@ -34,7 +34,7 @@ namespace sample1.generic
         {
             foreach (var doc in _documentQueue)
             {
-                Console.WriteLine(((IDocument)doc).Title);
+                Console.WriteLine(doc.Title);
             }
         }
     }
