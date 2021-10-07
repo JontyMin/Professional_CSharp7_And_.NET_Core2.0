@@ -1,8 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
+using System.Collections;
 using System.Collections.Generic;
-using sample1.generic;
 
 
 Console.WriteLine("Hello, World!");
@@ -38,9 +38,26 @@ CommonMethod.ShowName(s);
 // datetime
 CommonMethod.ShowName(d);*/
 
-sample1.generic.Monitor.Show();
+// sample1.generic.Monitor.Show();
+
+ArrayList arrayList = new ArrayList
+{
+    123,
+    "jonty",
+    DateTime.Now
+};
+
+foreach (var item in arrayList)
+{
+    Console.WriteLine(item);
+}
 
 
-
+List<int> arrInts = new List<int>
+{
+    1,
+    2,
+    3
+};
 
 Console.ReadKey();
