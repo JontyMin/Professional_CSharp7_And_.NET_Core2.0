@@ -3,6 +3,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using sample1.generic;
 
 
 Console.WriteLine("Hello, World!");
@@ -40,7 +41,7 @@ CommonMethod.ShowName(d);*/
 
 // sample1.generic.Monitor.Show();
 
-ArrayList arrayList = new ArrayList
+/*ArrayList arrayList = new ArrayList
 {
     123,
     "jonty",
@@ -58,6 +59,17 @@ List<int> arrInts = new List<int>
     1,
     2,
     3
-};
+};*/
 
+
+var docs = new DocumentManager<Document>();
+docs.AddDocument(new Document("AAA","Test aaa"));
+docs.AddDocument(new Document("BBB","Test bbb"));
+docs.DisplayAllDocuments();
+
+if (docs.IsAvailable)
+{
+    var doc = docs.GetDocument();
+    Console.WriteLine($"{doc.Title}:{doc.Content}");
+}
 Console.ReadKey();
