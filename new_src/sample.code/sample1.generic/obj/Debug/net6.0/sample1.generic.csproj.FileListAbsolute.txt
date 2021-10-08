@@ -1,0 +1,16 @@
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\bin\Debug\net6.0\sample1.generic.exe
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\bin\Debug\net6.0\sample1.generic.deps.json
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\bin\Debug\net6.0\sample1.generic.runtimeconfig.json
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\bin\Debug\net6.0\sample1.generic.dll
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\bin\Debug\net6.0\ref\sample1.generic.dll
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\bin\Debug\net6.0\sample1.generic.pdb
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.GlobalUsings.g.cs
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.csproj.AssemblyReference.cache
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.AssemblyInfoInputs.cache
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.AssemblyInfo.cs
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.csproj.CoreCompileInputs.cache
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.dll
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\ref\sample1.generic.dll
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.pdb
+E:\SourceCode\Professional_CSharp7_And_.NET_Core2.0\new_src\sample.code\sample1.generic\obj\Debug\net6.0\sample1.generic.genruntimeconfig.cache
