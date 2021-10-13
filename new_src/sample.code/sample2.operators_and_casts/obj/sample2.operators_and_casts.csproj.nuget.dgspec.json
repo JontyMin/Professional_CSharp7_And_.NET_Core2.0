@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj": {}
+  },
+  "projects": {
+    "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj",
+        "projectName": "sample2.operators_and_casts",
+        "projectPath": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj",
+        "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
+        "outputPath": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jonty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://code.52abp.com/api/v4/projects/4/packages/nuget/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21463.6\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
