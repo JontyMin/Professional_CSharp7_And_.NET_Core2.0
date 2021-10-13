@@ -3,6 +3,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using sample1.generic;
 
 
@@ -102,7 +103,7 @@ public class StaticDemo<T>
     public static int x;
 }*/
 
-Animal animal = new Animal();
+/*Animal animal = new Animal();
 Cat cat = new Cat();
 
 Animal animal1 = new Cat();
@@ -120,5 +121,80 @@ public class CustomerListIn<T> : ICustomerListIn<T>
     public void Show(T t)
     {
         
+    }
+}*/
+
+/*for (var i = 0; i < 5; i++)
+{
+    Console.WriteLine(GenericCache<int>.GetCache());
+    Thread.Sleep(10);
+
+    Console.WriteLine(GenericCache<long>.GetCache());
+    Thread.Sleep(10);
+
+    Console.WriteLine(GenericCache<string>.GetCache());
+    Thread.Sleep(10);
+
+    Console.WriteLine(GenericCache<DateTime>.GetCache());
+    Thread.Sleep(10);
+}
+
+public class GenericCache<T>
+{
+    private static readonly string _typeTime;
+    static GenericCache()
+    {
+        Console.WriteLine("static");
+
+        _typeTime = $"{typeof(T).FullName}_{DateTime.Now:yyyyMMddHHmmss.fff}";
+    }
+
+    public static string GetCache()
+    {
+        return _typeTime;
+    }
+}*/
+
+
+Nullable<int> x;
+x = 4;
+if (x.HasValue)
+{
+    Console.WriteLine(x.Value);
+}
+
+int? i = 0;
+
+public struct Nullable<T> where T: struct
+{
+    private bool _hasValue;
+    public bool HasValue => _hasValue;
+    public Nullable(T value)
+    {
+        _hasValue = true;
+        _value = value;
+    }
+
+    private T _value;
+
+    public T Value
+    {
+        get
+        {
+            if (!_hasValue)
+            {
+                throw new InvalidOperationException("no value");
+            }
+            return _value;
+        }
+    }
+
+    public static explicit operator T(Nullable<T> value) => value.Value;
+    
+    public static implicit operator Nullable<T>(T value) => new Nullable<T>(value);
+
+    public override string? ToString()
+    {
+        return !HasValue ? string.Empty : _value.ToString();
     }
 }
