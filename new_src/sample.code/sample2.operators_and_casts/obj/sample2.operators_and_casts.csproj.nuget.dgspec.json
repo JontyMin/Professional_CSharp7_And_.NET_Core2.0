@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample1.generic\\sample1.generic.csproj": {}
+    "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj": {}
   },
   "projects": {
-    "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample1.generic\\sample1.generic.csproj": {
+    "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample1.generic\\sample1.generic.csproj",
-        "projectName": "sample1.generic",
-        "projectPath": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample1.generic\\sample1.generic.csproj",
+        "projectUniqueName": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj",
+        "projectName": "sample2.operators_and_casts",
+        "projectPath": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\sample2.operators_and_casts.csproj",
         "packagesPath": "C:\\Users\\jonty\\.nuget\\packages\\",
-        "outputPath": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample1.generic\\obj\\",
+        "outputPath": "E:\\SourceCode\\Professional_CSharp7_And_.NET_Core2.0\\new_src\\sample.code\\sample2.operators_and_casts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonty\\AppData\\Roaming\\NuGet\\NuGet.Config",
